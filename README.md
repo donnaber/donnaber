@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @donnaber
-- 👀 I’m interested in Linux and other thing tech.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://discord.gg/XdvcUhFfPC
+Donald Naber is a Network Engineer and Information Security Professional with a strong background in Python development, automation, and system administration across Windows and Linux environments. Passionate about problem-solving and optimizing workflows, he specializes in securing and streamlining IT infrastructure.
 
-<!---
-donnaber/donnaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Beyond technology, he enjoys cooking, experimenting with fermentation, and caring for his pets. Currently based in Perú, he embraces bilingual communication and cross-cultural experiences.
+
